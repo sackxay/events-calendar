@@ -1,0 +1,18 @@
+html {
+  font-family: 'Merriweather', serif;
+}
+
+td {
+  border: 1px solid #efefef;
+  height: 150px;
+  border-radius: 8px;
+  text-align: right;
+}
+
+th {
+  border: 1px solid #efefef;
+}
+
+.calendar {
+  border: 1px solid #efefef;
+}
