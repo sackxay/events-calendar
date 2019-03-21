@@ -1,18 +1,46 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
+  color: #666;
+  color: #51603f;
+  color: #1d38da;
+  color: #991919;
 }
 
 td {
-  border: 1px solid #efefef;
-  height: 150px;
+  border: 1px solid #ccc;
+  height: 200px;
   border-radius: 8px;
-  text-align: right;
 }
 
 th {
-  border: 1px solid #efefef;
+  border: 1px solid #ccc;
 }
 
 .calendar {
-  border: 1px solid #efefef;
+  border: 1px solid #ccc;
+}
+
+.event {
+  border-radius: 8px;
+  border: 1px solid #000;
+}
+
+.event-grey {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.event-red {
+  background-color: #f2bcbc;
+  color: #b92828;
+}
+
+.event-green {
+  background-color: #d1e0bf;
+  color: #6b7e54;
+}
+
+.event-purple {
+  background-color: #d2d6f0;
+  color: #38448e;
 }
